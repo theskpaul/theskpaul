@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theskpaul
-- 🌱 I’m currently learning Rust and Go
+- 🌱 I’m currently learning Rust and Python
 - 📫 X: @theskpaul
 - ⚡ Fun fact: I hate Arch Linux because it creates new problems at important times, but it’s the only distro I can use with satisfaction.
 
